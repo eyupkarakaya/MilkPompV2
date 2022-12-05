@@ -7,4 +7,5 @@
   (lib (name "Kikit")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/kikit.pretty")(options "")(descr ""))
   (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Panelization.pretty")(options "")(descr ""))
   (lib (name "TSSOP_20")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/stm32-tssop-20.pretty")(options "")(descr ""))
+  (lib (name "Logo")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/logo.pretty")(options "")(descr ""))
 )
