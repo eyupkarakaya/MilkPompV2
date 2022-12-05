@@ -1,0 +1,11 @@
+### Missing 3D models - created on 2022-12-01 00:04
+### Printed by checking_3D_models plugin
+Board file: /Users/alpdade/projects/MilkPomp/hardware/MilkPomp.kicad_pcb
+3D missing models written to:
+/Users/alpdade/projects/MilkPomp/hardware/MilkPomp_missing3Dmodels.txt
+-------
+('U2', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Package_SO.3dshapes/SOIC-4_4.55x2.6mm_P1.27mm.wrl')
+('K1', '/Users/alpdade/projects/MilkPomp/hardware/packages3D/Relay_SPDT_Omron-G5LE-1.wrl')
+-------
+NUM of 3D missing models:2
+checked extensions ['.stp', '.step', '.stpZ']

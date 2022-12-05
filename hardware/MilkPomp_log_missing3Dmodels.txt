@@ -1,0 +1,1 @@
+[('U2', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Package_SO.3dshapes/SOIC-4_4.55x2.6mm_P1.27mm.wrl'), ('K1', '/Users/alpdade/projects/MilkPomp/hardware/packages3D/Relay_SPDT_Omron-G5LE-1.wrl')]

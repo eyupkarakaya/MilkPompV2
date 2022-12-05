@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "KPEG228")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/KPEG228.lib")(options "")(descr ""))
+  (lib (name "KXG1606C")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/KXG1606C.lib")(options "")(descr ""))
+  (lib (name "YAAJ_BluePill")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/YAAJ_BluePill.lib")(options "")(descr ""))
+  (lib (name "LD1085D2MR")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/LD1085D2MR.lib")(options "")(descr ""))
+  (lib (name "TPS7A4901DGNT")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/TPS7A4901DGNT.lib")(options "")(descr ""))
+  (lib (name "STM32G030F6P6TR")(type "Legacy")(uri "${KIPRJMOD}/library/symbols/2022-12-02_08-41-20.lib")(options "")(descr ""))
+)

@@ -1,0 +1,10 @@
+(fp_lib_table
+  (lib (name "Buzzer")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Buzzer.pretty")(options "")(descr ""))
+  (lib (name "STM32")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STM32.pretty")(options "")(descr ""))
+  (lib (name "Power")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Power.pretty")(options "")(descr ""))
+  (lib (name "STM32G030")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/STM32G030.pretty")(options "")(descr ""))
+  (lib (name "Connectors_Multicomp")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Connectors_Multicomp.pretty")(options "")(descr ""))
+  (lib (name "Kikit")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/kikit.pretty")(options "")(descr ""))
+  (lib (name "Panelization")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/Panelization.pretty")(options "")(descr ""))
+  (lib (name "TSSOP_20")(type "KiCad")(uri "${KIPRJMOD}/library/footprints/stm32-tssop-20.pretty")(options "")(descr ""))
+)
