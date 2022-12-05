@@ -58,7 +58,20 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 	2- Start butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
 	3- Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır.
 
+## Kaynak/Arastirmalar
+- [Flow Sensor](https://www.hepsiburada.com/fluidotech-kahve-makinasi-pompasi-rotary-pompa-pirinc-govdeli-p-HBV000007SB1Q)
+- [Flow Sensor Kullanimi](https://how2electronics.com/iot-water-flow-meter-using-esp8266-water-flow-sensor/)
+- [ESP8266 With Water Flow Sensor](https://www.14core.com/wiring-esp8266-1212e-with-g12-liquid-water-flow-sensor-for-wireless-monitoring/)
+
 ## Kullanilacak Bilesenler
-[flow sensor](https://www.hepsiburada.com/fluidotech-kahve-makinasi-pompasi-rotary-pompa-pirinc-govdeli-p-HBV000007SB1Q)
-[flow sensor kullanimi](https://how2electronics.com/iot-water-flow-meter-using-esp8266-water-flow-sensor/)
-[ESP8266 with Water Flow Sensor](https://www.14core.com/wiring-esp8266-1212e-with-g12-liquid-water-flow-sensor-for-wireless-monitoring/)
+- [STM32G030F6P6TR](docs/DS12991.pdf) 
+- [Relay](http://www.omron.com/ecb/products/pdf/en-g5le.pdf)
+- [Display](https://docs.broadcom.com/docs/AV02-2553EN)
+- [TLP291](https://toshiba.semicon-storage.com/info/docget.jsp?did=12884&prodName=TLP291)
+- Buttons
+- Buzzer 
+- Resistors
+- Capasitors
+- Transistors
+- Leds
+  
