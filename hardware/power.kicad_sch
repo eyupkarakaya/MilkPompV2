@@ -5,9 +5,12 @@
   (paper "A4")
 
   (title_block
-    (title "MilkPompPower")
-    (date "2022-12-02")
-    (rev "2.0")
+    (title "MILK POMP")
+    (date "2022-12-06")
+    (rev "V2")
+    (company "ELTASSAN LTD")
+    (comment 1 "EYYÜP KARAKAYA ")
+    (comment 2 "DONANIM TASARIM MÜHENDİSİ")
   )
 
   (lib_symbols

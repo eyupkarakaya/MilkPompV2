@@ -4,6 +4,15 @@
 
   (paper "A4")
 
+  (title_block
+    (title "MILK POMP")
+    (date "2022-12-06")
+    (rev "V2")
+    (company "ELTASSAN LTD")
+    (comment 1 "EYYÜP KARAKAYA ")
+    (comment 2 "DONANIM TASARIM MÜHENDİSİ")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x04_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 5.08 0)
