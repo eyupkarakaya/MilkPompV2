@@ -76,8 +76,8 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 - Leds
 ## Algoritma Adimlari
     1) Basla
-	2) I/O Butonuna bir kere basarak sistemi ac (Diger hersey pasif)
-	3) Kalibrasyon yapilmamissa C.yanip soner once kalibrasyon yapilir (ilk acilis icin gecerli)(Kalibrasyon yapilmissa )
+	2) I/O Butonuna bir kere basarak sistemi ac (Diger hersey pasif olmali)
+	3) Eger Kalibrasyon yapilmamissa C.yanip soner once kalibrasyon yapilmali. Eger Kalibrasyon yapilmissa 14.adima git(ilk acilis icin gecerli)
 	4) Kalibrasyonu başlatmak için I/O butonuna 5 saniye basılı tutulur
 	5) Gösterge 0 değerini gösterir ve nokta yanıp sönmeye başlar
 	6) İstenilen bardak, cihazın bardak bölmesine yerleştirilir
@@ -93,8 +93,10 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 	16) Eger otomatik ise islem soyle devam eder
 	17) İstenilen bardak, cihazın bardak bölmesine yerleştirilir
 	18) Mode butonu kullanılarak bardak seçimi yapılır(ornek 1.bardak 0-100ml alir,2.bardak 200-300ml alir)
-	19) Start butonuna basılıp bırakıldığında tanımlı miktar kadar dolum yapılır
-	20) 
+	19) Start butonuna basılıp bırakıldığında tanımlı miktar kadar dolum yapılır her bardak icin islem tekrar edilir
+	20) Eger manuel ise oldurulmak istenilen kap yerleştirilir
+	21) Start butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
+	22) Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır
    
 
 
