@@ -38,7 +38,7 @@ Kalibrasyon modu bir adet bardak tanıtmak istenirse aşağıdaki algoritmaya g�
 	
 Eğer birden fazla bardak tanımı yapılmak istenirse yukarıdaki algoritma basamaklarından 1 nolu adım ile kalibrasyon işlemi başlatılır. 2-7 adımları her bir bardak için tekrarlanır. Tüm bardakların tanımlanma işlemi bittiğinde 8 nolu adım ile kalibrasyon işlemi sonlandırılır.
 
-Daha sonra tanımlı bir bardağın kalibrasyonu değiştirlmek istendiğinde veya yeni bir bardak tanımı yapılması gerektiğinde yukarıdaki algoritma tekrar uygulanabilir.
+Daha sonra tanımlı bir bardağın kalibrasyonu değiştirilmek istendiğinde veya yeni bir bardak tanımı yapılması gerektiğinde yukarıdaki algoritma tekrar uygulanabilir.
 
 > Dikkat edilmesi gereken nokta, eğer bardak tanımları yapılmış bir cihazda tek bir bardağın kalibrasyonu değiştirlmek istenirse, Mode butonu ile doğru bardak numarasının seçildiğinden emin olunması gerekmektedir.
 
@@ -54,7 +54,7 @@ Her bir bardak için yukarıdaki adımlar tekrarlanır.
 ### Manuel Mod
 Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurulmak istendiğinde Manuel mod kullanılır.
 
-	1- Doldurulmak istenilen kap yerleştirilir.
+    1- Doldurulmak istenilen kap yerleştirilir.
 	2- Start butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
 	3- Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır.
 
@@ -74,4 +74,30 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 - Capasitors
 - Transistors
 - Leds
-  
+## Algoritma Adimlari
+    1) Basla
+	2) I/O Butonuna bir kere basarak sistemi ac (Diger hersey pasif)
+	3) Kalibrasyon yapilmamissa C.yanip soner once kalibrasyon yapilir (ilk acilis icin gecerli)(Kalibrasyon yapilmissa )
+	4) Kalibrasyonu başlatmak için I/O butonuna 5 saniye basılı tutulur
+	5) Gösterge 0 değerini gösterir ve nokta yanıp sönmeye başlar
+	6) İstenilen bardak, cihazın bardak bölmesine yerleştirilir
+	7) Mode butonu ile bardak seçimi yapılır (1, 2, 3, ..)
+	8) Start butonuna basılı tutularak bardak doldurulur
+	9) Bardak dolunca Start butonu bırakılır
+	10) Start butonu bırakıldığında seçilen bardak ve doldurulan miktar bilgileri otomatik olarak kaydedilir
+	11) Kalibrasyon modundan çıkmak için I/O butonuna 5 saniye bayunca basılır
+	12) Max 9 bardak tanimlanibilir, tanimlanma islemi bittikten sonra 11 adimla islem tamamlanir
+	13) Eger birden fazla bardak tanimi yapilmak istenilirse 4 adimdan baslayip 5-11 arasi adimlar tekrarlanir
+	14) Eger kalibrasyon yapilmissa ekranda 0 yazar ve bekler
+	15) Iki farkli sekilde bardak doldurabilir otomatik ve manuel biri secilir
+	16) Eger otomatik ise islem soyle devam eder
+	17) İstenilen bardak, cihazın bardak bölmesine yerleştirilir
+	18) Mode butonu kullanılarak bardak seçimi yapılır(ornek 1.bardak 0-100ml alir,2.bardak 200-300ml alir)
+	19) Start butonuna basılıp bırakıldığında tanımlı miktar kadar dolum yapılır
+	20) 
+   
+
+
+ 
+
+

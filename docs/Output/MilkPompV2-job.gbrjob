@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.8-1)-1"
     },
-    "CreationDate": "2022-12-06T10:12:17+03:00"
+    "CreationDate": "2022-12-21T11:45:43+03:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "MilkPompV2",
       "GUID": "4d696c6b-506f-46d7-9056-322e6b696361",
-      "Revision": "V1"
+      "Revision": "V2"
     },
     "Size": {
       "X": 160.12,
