@@ -98,8 +98,9 @@ Kalibrasyon yapılarak tanımlanmamış bir bardak veya farklı bir kap doldurul
 	21) Start butonuna basılı tutulur. Butona basıldıktan 5 saniye sonra manuel dolum başlar
 	22) Kullanıcı Start butonunu bıraktığında dolum işlemi sonlanır
    
+## Algoritma Akış Şeması
 
-
+![akış seması](docs/images/algorithm_flowchart.png)
  
 
 

@@ -1151,7 +1151,7 @@
     (property "Footprint" "TSSOP_20:SOP65P640X120-20N" (id 2) (at 206.248 77.724 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "" (id 3) (at 180.848 110.744 0)
+    (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g030f6.pdf" (id 3) (at 180.848 110.744 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 84d6eb63-9d12-42a2-a29c-2fc9a2f9f40a))
